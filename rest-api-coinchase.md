@@ -37,7 +37,7 @@ Sample Payload below:
 
 ## Reference Data endpoints
 
-### Supported Pairs
+### Exchange information
 
 * Current exchange trading rules and symbol information.
 
